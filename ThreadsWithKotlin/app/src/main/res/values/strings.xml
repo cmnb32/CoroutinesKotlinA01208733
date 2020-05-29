@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ThreadsWithKotlin</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="threadString1">Pi: </string>
+    <string name="hello_second_fragment">Time taken: </string>
+    <string name="titulo">Pi: Montecarlo Method</string>
+    <string name="titulo_hilos">Using Threads</string>
+    <string name="titulo_coroutune">Using Coroutines</string>
+    <string name="titulo_normal">Using One Thread</string>
+    <string name="start_button">Get Pi</string>
+</resources>
